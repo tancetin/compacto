@@ -60,8 +60,3 @@ module.exports = options => (
 		})().catch(observer.error.bind(observer)); // eslint-disable-line promise/prefer-await-to-then
 	})
 );
-
-/*
-Fast cli modified javascript path
-
-*/
